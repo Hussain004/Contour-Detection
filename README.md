@@ -11,6 +11,7 @@ This project uses computer vision and robotics to detect a green bottle, calcula
 - Coordination of the robotic arm and gripper to grasp and lift the bottle.
 
 <h2> Requirements </h2>
+
 - Robomaster robot with necessary sensors and end-effectors (camera, chassis, gripper, robotic arm)
 - OpenCV library for image processing
 - Robomaster SDK for robot control
